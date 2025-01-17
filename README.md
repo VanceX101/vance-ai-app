@@ -1,97 +1,62 @@
-# [Horizon ChatGPT AI Template](https://horizon-ui.com/chatgpt-ai-template) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20ChatGPT%20AI%20Template,%20the%20trendiest%20open%20source%20ChatGPT%20AI%20admin%20template%20for%20%23nextjs%20and%20%23react!%0A%0Ahttps%3A//horizon-ui.com/chatgpt-ai-template/%20%20)
+Vance Nguyen - Data Engineer
+============================
 
-![version](https://img.shields.io/badge/version-2.2.0-brightgreen.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/chatgpt-ai-template.svg?maxAge=2592000)](https://github.com/horizon-ui/chatgpt-ai-template/issues?q=is%3Aopen+is%3Aissue)
-
-<p>&nbsp;</p>
-
-[<img alt="Horizon UI - Tailwind CSS React Admin dashboard template" src="https://i.ibb.co/mqnbX1Y/horizon-ai-template-presentation-image-open-source.png" />](https://horizon-ui.com/ai-template)
-
-<p>&nbsp;</p>
-
-Get started and build your dream AI web app with Horizon AI Template, the trendiest & innovative Open-Source Free ChatGPT AI Admin Template for NextJS & React!
-
----
+Welcome to my personal repository. This project is designed to showcase my work and contributions as a Data Engineer. Below, you will find details about the project, setup instructions, and how to connect with me.
 
 ### Introduction
 
-Horizon ChatGPT AI Template is the world's best open source OpenAI ChatGPT AI Template made with React, NextJS and Chakra UI! Start creating outstanding Chat AI SaaS Apps faster.
-
-It comes with over 30+ dark/light frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+This repository contains projects and templates I have customized and optimized for data engineering workflows. With a focus on automation, scalability, and performance, my goal is to build robust solutions tailored for modern data challenges.
 
 ### Documentation
 
-Each element is well presented in a very complex documentation. You can read more about the <a href="https://horizon-ui.com/docs-ai-template/docs/introduction?ref=readme-horizon-ai-template-free" target="_blank">documentation here.</a>
+Each project in this repository is accompanied by comprehensive documentation to ensure a smooth experience. You can explore detailed guides and usage instructions in the respective folders.
+
+Read more about me and my work on my personal website: [https://vcgconsulting.id.vn](https://vcgconsulting.id.vn/)
 
 ### Quick Start
 
-Install Horizon ChatGPT AI Template by running either of the following:
+Follow these steps to set up the project on your local machine:
 
-- Install NodeJS LTS from [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation) (NOTE: Product only works with LTS version)
+1.  git clone https://github.com/VanceX101/vance-ai-app.git
+    
+2.  npm install
+    
+3.  npm run dev
+    
 
-Clone the repository with the following command:
+Visit http://localhost:3000 in your browser to view the app.
 
-```bash
-git clone https://github.com/horizon-ui/chatgpt-ai-template.git
-```
+### API Keys
 
-Run in the terminal this command:
+Ensure you have valid API keys configured in the .env file. For example:
 
-```bash
-npm install
-```
+*   OpenAI: Obtain your API key from [OpenAI](https://platform.openai.com/account).
+    
 
-Then run this command to start your local server
+If you encounter any issues with your API key, ensure that:
 
-```bash
-npm run dev
-```
-
-### Your API Key is not working?
-
-- Make sure you have an [OpenAI account](https://platform.openai.com/account) and a valid API key to use ChatGPT. We don't sell API keys.
-- Make sure you have your billing info added in [OpenAI Billing page](https://platform.openai.com/account/billing/overview). Without billing info, your API key will not work.
-- The app will connect to the OpenAI API server to check if your API Key is working properly.
-
-### Example Page
-
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example page. You will be able to quickly set up the basic structure for your web project.
-
-View <a href="https://horizon-ui.com/chatgpt-ai-template/?ref=readme-horizon-ai-template-free" target="_blank">example pages here.</a>
-
-### Versions
-
-| Free Version                                                                                                                                                         | PRO Version                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon ChatGPT AI Template](https://i.ibb.co/Qmym1qt/horizon-ai-template-presentation-image-open-source.png)](https://github.com/horizon-ui/chatgpt-ai-template) | [![Horizon AI Template PRO](https://i.ibb.co/ChL2fvf/horizon-ai-template-presentation-image.png)](https://www.horizon-ui.com/ai-template?ref=readme-horizon-ai-template-free) |
-
-### Figma Version
-
-Horizon AI Template is available in Figma format as well! [Check it out here](https://www.figma.com/community/file/1253038328954459768)! 🎨
+1.  Your OpenAI account is active.
+    
+2.  Your billing information is updated.
+    
+3.  Your API key is correctly set in the environment variables.
+    
 
 ### Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
-some advices for our users that want to report an issue:
+If you find a bug or have suggestions for improvements, please open an issue in this repository. To help me address your issue quickly:
 
-1. Make sure that you are using the latest version of the Horizon AI Template.
-   Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/horizon-ui/chatgpt-ai-template/blob/main/CHANGELOG.md?ref=readme-horizon-ai-template-free).
-2. Providing us reproducible steps for the issue will shorten the time it takes
-   for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you
-   encountered the issue might help.
+1.  Confirm that you are using the latest version of the project.
+    
+2.  Provide clear, reproducible steps to replicate the issue.
+    
+3.  Specify the environment and browser (if applicable).
+    
 
----
+### Community and Support
 
-### Community
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check out my website at [https://vcgconsulting.id.vn](https://vcgconsulting.id.vn/).
 
-Connect with the community! Feel free to ask questions, report issues, and meet new people that already use Horizon AI Template!
+### Copyright and License
 
-💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
-
-### Copyright and license
-
-⭐️ [Copyright 2023 Horizon UI ](https://www.horizon-ui.com/?ref=readme-horizon-ai-template-free)
-
-📄 [Horizon UI License](https://horizon-ui.notion.site/End-User-License-Agreement-8fb09441ea8c4c08b60c37996195a6d5)
+This project is maintained by Vance Nguyen. For licensing details, refer to the LICENSE file in the repository.
